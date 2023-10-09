@@ -2,7 +2,7 @@
 
 Defend and conquer in this epic Tower Defense game brought to you by Volckano, a company dedicated to developing innovative applications, games, and websites.
 
-[![Alt Text](https://tankbattletd.vercel.app/tankimg2.png)](https://tankbattletd.vercel.app)
+[![Tank Battle TD](https://tankbattletd.vercel.app/tankimg1.png)](https://tankbattletd.vercel.app)
 
 
 ## Game Features
