@@ -9,7 +9,7 @@ Defend and conquer in this epic Tower Defense game brought to you by Volckano, a
 - Boss fights, air force, battleship, snow levels, and many more
 - Diverse character selection with unique vehicles
 
-[![Game Trailer](https://img.youtube.com/vi/rEhHE6T1gbs/0.jpg)](https://www.youtube.com/watch?v=rEhHE6T1gbs)
+[![Game Trailer](https://img.youtube.com/vi/rEhHE6T1gbs/1.jpg)](https://www.youtube.com/watch?v=rEhHE6T1gbs)
 
 
 ## Learn More
