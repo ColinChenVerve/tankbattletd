@@ -9,18 +9,8 @@ Defend and conquer in this epic Tower Defense game brought to you by Volckano, a
 - Boss fights, air force, battleship, snow levels, and many more
 - Diverse character selection with unique vehicles
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rEhHE6T1gbs?si=q7l-8DiYD1DqCK1a" title="Game Trailer" frameborder="0" allowfullscreen></iframe>
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
 ## Learn More
