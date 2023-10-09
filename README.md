@@ -16,6 +16,14 @@ Defend and conquer in this epic Tower Defense game brought to you by Volckano, a
 https://www.youtube.com/watch?v=rEhHE6T1gbs
 
 
+## Get Started
+
+This is a nextjs website for the game Tank Battle TD.
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+
 ## Learn More
 
 To learn more about Volckano, a brand owned by Verve Group Inc., please visit Volckano website at:
